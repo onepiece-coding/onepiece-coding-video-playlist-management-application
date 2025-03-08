@@ -11,7 +11,7 @@
 ![screenshot](https://github.com/onepiece-coding/onepiece-coding-video-playlist-management-application/blob/main/public/09.png)
 ![screenshot](https://github.com/onepiece-coding/onepiece-coding-video-playlist-management-application/blob/main/public/10.png)
 
-A frontend video playlist management application built with Vite, TypeScript, React, and Redux Toolkit. The app allows users to browse videos, add/remove favorites, like/dislike videos, and comment on videos. Data is managed locally using a data.js file.
+A frontend video playlist management application built with Vite, React, and Redux Toolkit. The app allows users to browse videos, add/remove favorites, like/dislike videos, and comment on videos. Data is managed locally using a data.js file.
 
 ## Features
 
