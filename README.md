@@ -70,7 +70,8 @@ A frontend video playlist management application built with Vite, React, and Red
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/yonepiece-coding/video-playlist-management-application.git
+  git clone https://github.com/onepiece-coding/video-playlist-management-application.git
+
   cd video-playlist-management-application
 ```
 
