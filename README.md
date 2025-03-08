@@ -25,9 +25,9 @@ A frontend video playlist management application built with Vite, TypeScript, Re
 
 **Comments:**
 
--- Add comments to videos.
+- Add comments to videos.
 
--- Edit or delete your own comments.
+- Edit or delete your own comments.
 
 **Responsive Design:**
 
@@ -35,17 +35,15 @@ A frontend video playlist management application built with Vite, TypeScript, Re
 
 **State Management:**
 
--- Redux Toolkit for global state management.
+- Redux Toolkit for global state management.
 
--- Persisted state for favorites and user preferences.
+- Persisted state for favorites and user preferences.
 
 ## Technologies Used
 
 **Frontend:**
 
 - React
-
-- TypeScript
 
 - Redux Toolkit
 
